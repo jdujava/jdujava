@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! 👋
+
+My [Curriculum Vitae](https://jdujava.github.io/jdujava/CurriculumVitae_Dujava.pdf).
 
 <!--
 **jdujava/jdujava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
