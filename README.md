@@ -1,5 +1,7 @@
 ### Hi! 👋
 
+Currenly, I am finishing my Master's degree in Theoretical Physics at Charles University in Prague.
+
 My [Curriculum Vitae](https://jdujava.github.io/jdujava/CurriculumVitae_Dujava.pdf).
 
 <a href="https://github.com/jdujava/jdujava" style="text-decoration: none;">
