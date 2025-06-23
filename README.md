@@ -1,6 +1,7 @@
 ### Hi! 👋
 
-Currenly, I am finishing my Master's degree in Theoretical Physics at Charles University in Prague.
+Recently I finished my Master's degree in Theoretical Physics at Charles University in Prague.<br>
+I will be pursuing PhD in Theoretical Physics at EPFL.
 
 My [Curriculum Vitae](https://jdujava.github.io/jdujava/CurriculumVitae_Dujava.pdf).
 
